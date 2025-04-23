@@ -21,7 +21,7 @@ It provides essential system details in a clean and efficient manner, enhancing 
 Build from the source:
 
 ```bash
-git clone https://github.com/DavidBalishyan/betterfetch.git
+git clone https://github.com/betterfetch/betterfetch.git
 cd betterfetch
 g++ main.cpp -o main.exe
 ```
