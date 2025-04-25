@@ -44,3 +44,7 @@ g++ main.cpp -o main.exe
 Use pre-compiled binaries:
 
 download .exe file from the repo releases page
+
+## Join my patreon to support my work
+
+<img src="./asset-preview.png"
