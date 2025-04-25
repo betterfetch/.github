@@ -47,4 +47,4 @@ download .exe file from the repo releases page
 
 ## Join my patreon to support my work
 
-<img src="./asset-preview.png"/>
+<a href="https://www.patreon.com/c/DavidBalishyan"><img src="./asset-preview.png"/></a>
