@@ -23,7 +23,7 @@ Build from the source:
 ```bash
 git clone https://github.com/betterfetch/betterfetch.git
 cd betterfetch
-g++ main.cpp -o main.exe
+g++ main.cpp -o main
 ```
 
 Use pre-compiled binaries:
@@ -38,12 +38,12 @@ Build from the source:
 ```bash
 git clone https://github.com/DavidBalishyan/betterfetch.git
 cd betterfetch
-g++ main.cpp -o main.exe
+g++ main.cpp -o main
 ```
 
 Use pre-compiled binaries:
 
-download .exe file from the repo releases page
+download the precompiled binaries from the repo page
 
 ## Join my patreon to support my work
 
