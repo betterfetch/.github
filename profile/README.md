@@ -16,7 +16,23 @@ It provides essential system details in a clean and efficient manner, enhancing 
 
 ## 📦 Installation
 
-### 🐧 Linux
+# To install the Rust version
+1. clone the repo
+  ```bash
+  git clone https://github.com/betterfetch/betterfetch.git
+  ```
+2. install using cargo
+   ```bash
+  cd betterfetch
+  cargo install --path .
+  ```
+3. Add to path  
+  ```bash
+  # Add this to your ~/.zshrc or ~/.bashrc
+  export PATH="$HOME/.cargo/bin:$PATH"
+  ```
+
+<!-- ### 🐧 Linux
 
 Build from the source:
 
@@ -43,7 +59,7 @@ g++ main.cpp -o main
 
 Use pre-compiled binaries:
 
-download the precompiled binaries from the repo page
+download the precompiled binaries from the repo page -->
 
 ## Join my patreon to support my work
 
