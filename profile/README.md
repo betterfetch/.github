@@ -16,6 +16,8 @@ It provides essential system details in a clean and efficient manner, enhancing 
 
 ## 📦 Installation
 
+How to install betterfetch
+
 ### To install the Rust version (recommended)
 
 #### Use the provided install script
@@ -64,13 +66,19 @@ curl https://raw.githubusercontent.com/betterfetch/scripts/refs/heads/main/cpp/i
 
 #### Manual install
 
-Build from the source:
-
 ```bash
 git clone https://github.com/betterfetch/betterfetch.git
+```
+
+```bash
 cd betterfetch
+```
+
+```bash
 g++ main.cpp -o main
 ```
+
+You can also add it to your PATH
 
 ## Join my patreon to support my work
 
