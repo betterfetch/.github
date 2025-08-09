@@ -7,37 +7,62 @@ It provides essential system details in a clean and efficient manner, enhancing 
 
 ## 🧩 Features
 
-- Displays key system information quickly  
-- Minimalist design without unnecessary clutter  
-- Lightweight and fast  
-- Easy to install and use  
+- Displays key system information quickly
+- Minimalist design without unnecessary clutter
+- Lightweight and fast
+- Easy to install and use
 
 ---
 
 ## 📦 Installation
 
 ### To install the Rust version (recommended)
-1. clone the repo
-  ```bash
-  git clone https://github.com/betterfetch/betterfetch.git
-  ```
-2. install using cargo
- ```bash
- cd betterfetch
- cargo install --path .
- ```
-3. Add to path  
-  ```bash
-  # Add this to your ~/.zshrc or ~/.bashrc
-  export PATH="$HOME/.cargo/bin:$PATH"
-  ```
-3. Restart your shell
+
+#### Use the provided install script
+
 ```bash
-exec zsh # or bash/fish 
+curl https://raw.githubusercontent.com/betterfetch/scripts/refs/heads/main/rs/install.sh | bash
 ```
+
+#### Manual install
+
+1. clone the repo
+
+```bash
+git clone https://github.com/betterfetch/betterfetch.git
+```
+
+2. install using cargo
+
+```bash
+cd betterfetch
+cargo install --path .
+```
+
+3. Add to path
+
+```bash
+# Add this to your ~/.zshrc or ~/.bashrc
+export PATH="$HOME/.cargo/bin:$PATH"
+```
+
+3. Restart your shell
+
+```bash
+exec zsh # or bash/fish
+```
+
 **you'r good to go**
 
 ### For the C++ version (maintenance only)
+
+#### Use the provided install script
+
+```bash
+curl https://raw.githubusercontent.com/betterfetch/scripts/refs/heads/main/cpp/install.sh | bash
+```
+
+#### Manual install
 
 Build from the source:
 
