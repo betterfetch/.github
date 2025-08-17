@@ -1,7 +1,6 @@
 # <center>🚀 betterfetch</center>
 <!-- <center><img src="./betterfetch_logo.png" alt="Betterfetch logo" width="100" height="100"></center> -->
 <a href="https://github.com/betterfetch/betterfetch"><img src="https://github-readme-stats.vercel.app/api/pin/?username=betterfetch&repo=betterfetch" alt="betterfetch repo"/></a>
-<a href="https://github.com/betterfetch/betterfetch-cpp"><img src="https://github-readme-stats.vercel.app/api/pin/?username=betterfetch&repo=betterfetch-cpp" alt="betterfetch repo"/></a>
 </br>
 
 <strong>betterfetch</strong> is a lightweight and minimalist system information tool designed for the terminal.  
