@@ -1,6 +1,8 @@
-# 🚀 betterfetch
+# <center>🚀 betterfetch</center>
+<center><img src="./betterfetch_logo.png" alt="Betterfetch logo" width="100" height="100"></center>
+</br>
 
-**betterfetch** is a lightweight and minimalist system information tool designed for the terminal.  
+<strong>betterfetch</strong> is a lightweight and minimalist system information tool designed for the terminal.  
 It provides essential system details in a clean and efficient manner, enhancing your command-line experience
 
 ---
