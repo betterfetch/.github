@@ -70,15 +70,16 @@ curl https://raw.githubusercontent.com/betterfetch/scripts/refs/heads/main/cpp/i
 #### Manual install
 
 ```bash
-git clone https://github.com/betterfetch/betterfetch.git
+git clone https://github.com/betterfetch/betterfetch-cpp.git
 ```
 
 ```bash
-cd betterfetch
+cd betterfetch-cpp
 ```
 
 ```bash
-g++ main.cpp -o main
+make
+sudo make install
 ```
 
 You can also add it to your PATH
