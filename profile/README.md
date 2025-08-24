@@ -59,7 +59,7 @@ exec zsh # or bash/fish
 
 **you'r good to go**
 
-### For the C++ version (maintenance only)
+### For the C++ version
 
 #### Use the provided install script
 
