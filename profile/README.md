@@ -26,7 +26,7 @@ How to install betterfetch
 #### Use the provided install script
 
 ```bash
-curl https://raw.githubusercontent.com/betterfetch/scripts/refs/heads/main/rs/install.sh | bash
+curl https://betterfetch.github.io/scripts/rs/install.sh | bash
 ```
 
 #### Manual install
@@ -64,7 +64,7 @@ exec zsh # or bash/fish
 #### Use the provided install script
 
 ```bash
-curl https://raw.githubusercontent.com/betterfetch/scripts/refs/heads/main/cpp/install.sh | bash
+curl https://betterfetch.github.io/scripts/cpp/install.sh | bash
 ```
 
 #### Manual install
