@@ -83,7 +83,7 @@ sudo make install
 ```
 
 You can also add it to your PATH
-
+<!-- 
 ## Join my patreon to support my work
 
-<a href="https://www.patreon.com/c/DavidBalishyan"><img src="./asset-preview.png"/></a>
+<a href="https://www.patreon.com/c/DavidBalishyan"><img src="./asset-preview.png"/></a -->
