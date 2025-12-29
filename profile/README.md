@@ -1,7 +1,7 @@
 # <center>🚀 betterfetch</center>
 <!-- <center><img src="./betterfetch_logo.png" alt="Betterfetch logo" width="100" height="100"></center> -->
 <a href=https://github.com/betterfetch/betterfetch>
-<img src="https://github-readme-stats-alpha-sand-35.vercel.app/api/pin/?username=betterfetch&repo=betterfetch&theme=transparent"/>
+<img src="https://github-readme-stats-by-david.vercel.app/api/pin/?username=betterfetch&repo=betterfetch&theme=dracula"/>
 </a>
 </br>
 
