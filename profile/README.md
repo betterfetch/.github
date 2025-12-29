@@ -1,7 +1,10 @@
 # <center>🚀 betterfetch</center>
 <!-- <center><img src="./betterfetch_logo.png" alt="Betterfetch logo" width="100" height="100"></center> -->
 <a href=https://github.com/betterfetch/betterfetch>
-<img src="https://github-readme-stats-by-david.vercel.app/api/pin/?username=betterfetch&repo=betterfetch&theme=dracula"/>
+<img src="https://github-readme-stats-by-david.vercel.app/api/pin/?username=betterfetch&repo=betterfetch&hide_border=true&theme=tokyonight"/>
+</a>
+<a href=https://github.com/betterfetch/scripts>
+<img src="https://github-readme-stats-by-david.vercel.app/api/pin/?username=betterfetch&repo=scripts&hide_border=true&theme=tokyonight"/>
 </a>
 </br>
 
