@@ -62,7 +62,7 @@ export PATH="$HOME/.cargo/bin:$PATH"
 exec zsh # or bash/fish
 ```
 
-**you'r good to go**
+**you're good to go**
 
 ### For the C++ version
 
