@@ -1,94 +1,107 @@
-# <center>🚀 betterfetch</center>
-<!-- <center><img src="./betterfetch_logo.png" alt="Betterfetch logo" width="100" height="100"></center> -->
-<a href=https://github.com/betterfetch/betterfetch>
-<img src="https://github-readme-stats-by-david.vercel.app/api/pin/?username=betterfetch&repo=betterfetch&hide_border=true&theme=tokyonight"/>
-</a>
-<a href=https://github.com/betterfetch/scripts>
-<img src="https://github-readme-stats-by-david.vercel.app/api/pin/?username=betterfetch&repo=scripts&hide_border=true&theme=tokyonight"/>
-</a>
-</br>
+<div align="center">
 
-<strong>betterfetch</strong> is a lightweight and minimalist system information tool designed for the terminal.  
-It provides essential system details in a clean and efficient manner, enhancing your command-line experience
+# 🚀 betterfetch
+
+### A Lightweight System Information Tool for the Terminal
+
+[![Website](https://img.shields.io/badge/Website-betterfetch.github.io-blue?style=for-the-badge)](https://betterfetch.github.io)
+[![GitHub](https://img.shields.io/badge/GitHub-betterfetch-black?style=for-the-badge)](https://github.com/betterfetch)
+
+---
+
+**betterfetch** is a minimalist system information tool that delivers essential system details in a clean, efficient manner. Designed for developers and terminal enthusiasts who want power without the bloat.
+
+</div>
+
+### Featured Repositories
+
+<div align="center">
+
+[![betterfetch](https://github-readme-stats-by-david.vercel.app/api/pin/?username=betterfetch&repo=betterfetch&hide_border=true&theme=tokyonight)](https://github.com/betterfetch/betterfetch)
+[![scripts](https://github-readme-stats-by-david.vercel.app/api/pin/?username=betterfetch&repo=scripts&hide_border=true&theme=tokyonight)](https://github.com/betterfetch/scripts)
+
+</div>
 
 ---
 
 ## 🧩 Features
 
-- Displays key system information quickly
-- Minimalist design without unnecessary clutter
-- Lightweight and fast
-- Easy to install and use
+- ⚡ Displays key system information instantly
+- 🎨 Minimalist design without unnecessary clutter
+- 📦 Lightweight and fast
+- 🚀 Easy to install and use
+- 🛠️ Available in both Rust and C++
+
+---
+
+## 🔗 Quick Link
+
+<div align="center">
+
+***Visit our website***
+
+<img src="./website.png"/>
+
+</div>
 
 ---
 
 ## 📦 Installation
 
-How to install betterfetch
+Choose your preferred version and installation method:
 
-### To install the Rust version (recommended)
+### 🦀 Rust Version (Recommended)
 
-#### Use the provided install script
+#### Option 1: Quick Install Script
 
 ```bash
 curl https://betterfetch.github.io/scripts/rs/install.sh | bash
 ```
 
-#### Manual install
+#### Option 2: Manual Installation
 
-1. clone the repo
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/betterfetch/betterfetch.git
+   ```
 
-```bash
-git clone https://github.com/betterfetch/betterfetch.git
-```
+2. **Install via Cargo:**
+   ```bash
+   cd betterfetch
+   cargo install --path .
+   ```
 
-2. install using cargo
+3. **Add to PATH (if needed):**
+   ```bash
+   # Add this to your ~/.zshrc or ~/.bashrc
+   export PATH="$HOME/.cargo/bin:$PATH"
+   ```
 
-```bash
-cd betterfetch
-cargo install --path .
-```
+4. **Restart your shell:**
+   ```bash
+   exec zsh  # or bash/fish/etc
+   ```
 
-3. Add to path
+### C++ Version
 
-```bash
-# Add this to your ~/.zshrc or ~/.bashrc
-export PATH="$HOME/.cargo/bin:$PATH"
-```
-
-3. Restart your shell
-
-```bash
-exec zsh # or bash/fish
-```
-
-**you're good to go**
-
-### For the C++ version
-
-#### Use the provided install script
+#### Option 1: Quick Install Script
 
 ```bash
 curl https://betterfetch.github.io/scripts/cpp/install.sh | bash
 ```
 
-#### Manual install
+#### Option 2: Manual Installation
 
-```bash
-git clone https://github.com/betterfetch/betterfetch-cpp.git
-```
+1. **Clone the repository:**
+   ```bash
+   git clone https://github.com/betterfetch/betterfetch-cpp.git
+   cd betterfetch-cpp
+   ```
 
-```bash
-cd betterfetch-cpp
-```
+2. **Build and install:**
+   ```bash
+   make
+   sudo make install
+   ```
 
-```bash
-make
-sudo make install
-```
-
-You can also add it to your PATH
-<!-- 
-## Join my patreon to support my work
-
-<a href="https://www.patreon.com/c/DavidBalishyan"><img src="./asset-preview.png"/></a -->
+---
