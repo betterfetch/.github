@@ -1,107 +1,67 @@
 <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./betterfetch_logo.png">
+    <img src="./betterfetch_logo.png" alt="betterfetch" width="120">
+  </picture>
 
-# 🚀 betterfetch
+  # betterfetch
 
-### A Lightweight System Information Tool for the Terminal
+  Lightweight system information, right in your terminal.
 
-[![Website](https://img.shields.io/badge/Website-betterfetch.github.io-blue?style=for-the-badge)](https://betterfetch.github.io)
-[![GitHub](https://img.shields.io/badge/GitHub-betterfetch-black?style=for-the-badge)](https://github.com/betterfetch)
+  <br>
+
+  <a href="https://github.com/betterfetch/betterfetch">
+    <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=fff" alt="Rust">
+  </a>
+  <a href="https://betterfetch.github.io">
+    <img src="https://img.shields.io/badge/Website-000000?style=flat-square&logo=github&logoColor=fff" alt="Website">
+  </a>
+
+  <br>
+  <br>
+
+  <sub>Fast - Minimal - Open Source</sub>
+</div>
+
+<br>
 
 ---
 
-**betterfetch** is a minimalist system information tool that delivers essential system details in a clean, efficient manner. Designed for developers and terminal enthusiasts who want power without the bloat.
-
-</div>
-
-### Featured Repositories
+## Featured
 
 <div align="center">
-
-[![betterfetch](https://github-readme-stats-by-david.vercel.app/api/pin/?username=betterfetch&repo=betterfetch&hide_border=true&theme=tokyonight)](https://github.com/betterfetch/betterfetch)
-[![scripts](https://github-readme-stats-by-david.vercel.app/api/pin/?username=betterfetch&repo=scripts&hide_border=true&theme=tokyonight)](https://github.com/betterfetch/scripts)
-
+  <a href="https://github.com/betterfetch/betterfetch">
+    <img src="https://github-readme-stats-by-david.vercel.app/api/pin/?username=betterfetch&repo=betterfetch&hide_border=true&theme=tokyonight" alt="betterfetch">
+  </a>
+  <a href="https://github.com/betterfetch/scripts">
+    <img src="https://github-readme-stats-by-david.vercel.app/api/pin/?username=betterfetch&repo=scripts&hide_border=true&theme=tokyonight" alt="scripts">
+  </a>
 </div>
 
----
-
-## 🧩 Features
-
-- ⚡ Displays key system information instantly
-- 🎨 Minimalist design without unnecessary clutter
-- 📦 Lightweight and fast
-- 🚀 Easy to install and use
-- 🛠️ Available in both Rust and C++
+<br>
 
 ---
 
-## 🔗 Quick Link
+## Why betterfetch?
 
-<div align="center">
-
-***Visit our website***
-
-<img src="./website.png"/>
-
-</div>
+- **Instant** - boots in milliseconds with zero unnecessary overhead
+- **Clean** - presents exactly what you need, nothing more
+- **Rust** - modern, fast, and dependency-managed
+- **Tiny** - minimal footprint, maximal utility
 
 ---
 
-## 📦 Installation
-
-Choose your preferred version and installation method:
-
-### 🦀 Rust Version (Recommended)
-
-#### Option 1: Quick Install Script
+## Quick Install
 
 ```bash
-curl https://betterfetch.github.io/scripts/rs/install.sh | bash
+curl -fsSL https://betterfetch.github.io/scripts/rs/install.sh | bash
 ```
 
-#### Option 2: Manual Installation
+Or grab the source from the [betterfetch](https://github.com/betterfetch/betterfetch) repository.
 
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/betterfetch/betterfetch.git
-   ```
-
-2. **Install via Cargo:**
-   ```bash
-   cd betterfetch
-   cargo install --path .
-   ```
-
-3. **Add to PATH (if needed):**
-   ```bash
-   # Add this to your ~/.zshrc or ~/.bashrc
-   export PATH="$HOME/.cargo/bin:$PATH"
-   ```
-
-4. **Restart your shell:**
-   ```bash
-   exec zsh  # or bash/fish/etc
-   ```
-
-### C++ Version
-
-#### Option 1: Quick Install Script
-
-```bash
-curl https://betterfetch.github.io/scripts/cpp/install.sh | bash
-```
-
-#### Option 2: Manual Installation
-
-1. **Clone the repository:**
-   ```bash
-   git clone https://github.com/betterfetch/betterfetch-cpp.git
-   cd betterfetch-cpp
-   ```
-
-2. **Build and install:**
-   ```bash
-   make
-   sudo make install
-   ```
-
----
+<a href="https://betterfetch.github.io">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="./website.png">
+    <img src="./website.png" alt="Visit betterfetch.github.io" width="480">
+  </picture>
+</a>
