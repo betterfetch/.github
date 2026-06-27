@@ -1,1 +1,1 @@
-# Betterfetch organization config
+# betterfetch/.github
